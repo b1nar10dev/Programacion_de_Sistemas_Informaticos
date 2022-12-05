@@ -1,1 +1,1 @@
-# Módulo "Xestión de Servizos no Sistema Informático (UC0490_3)"
+# MF0490: Módulo "Xestión de Servizos no Sistema Informático.
